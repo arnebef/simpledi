@@ -1,0 +1,4 @@
+simpledi
+========
+
+Simple Dependency Injection
